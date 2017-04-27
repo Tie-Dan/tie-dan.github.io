@@ -21,9 +21,9 @@
       core_tech: 'JavaScript',
       description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
     }, {
-      demo_link: 'https://tie-dan.github.io/demo/3D%E5%9C%86%E7%8E%AF%E5%9B%BE%E7%89%87%E5%A2%99/',
-      img_link: 'https://github.com/Tie-Dan/demo/blob/master/3D%E5%9C%86%E7%8E%AF%E5%9B%BE%E7%89%87%E5%A2%99/img/1.png?raw=true',
-      code_link: 'https://github.com/Tie-Dan/demo/tree/master/3D%E5%9C%86%E7%8E%AF%E5%9B%BE%E7%89%87%E5%A2%99/index.html',
+      demo_link: 'https://tie-dan.github.io/jekyll_demo/3D%E5%9C%86%E7%8E%AF%E5%9B%BE%E7%89%87%E5%A2%99/',
+      img_link: 'https://github.com/Tie-Dan/jekyll_demo/blob/master/3D%E5%9C%86%E7%8E%AF%E5%9B%BE%E7%89%87%E5%A2%99/img/1.png?raw=true',
+      code_link: 'https://github.com/Tie-Dan/jekyll_demo/blob/master/3D%E5%9C%86%E7%8E%AF%E5%9B%BE%E7%89%87%E5%A2%99/index.html',
       title: '3D圆环照片墙',
       core_tech: 'CSS3 拖拽 摩擦运动',
       description: '一个简单的CSS3图片圆环加上拖拽和摩擦运动太神奇了,只有想不到 没有做不到'

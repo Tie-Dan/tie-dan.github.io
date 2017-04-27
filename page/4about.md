@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-<img src="https://github.com/Tie-Dan/demo/blob/master/common_Img/this.JPG?raw=true" alt="网速太慢了！！！" style="width:300px;height:300px;">
+<img src="https://github.com/Tie-Dan/jekyll_demo/blob/master/common_Img/this.JPG?raw=true" alt="网速太慢了！！！" style="width:300px;height:300px;">
 
 主要兴趣集中在前端开发 但是全栈的概念深深影响着我  
 
